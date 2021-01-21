@@ -253,6 +253,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 </p>
 You can also step by step run Jupyter Notebooks in /notebooks dir.
 -->
+<br />
 * 1 This repository use edited es-pandas interface (support vector serlized) to have a simple manipulate on elasticsearch by pandas.
 <br />
 * 2 try_sbert_neg_sampler.py sample hard negative samples drived from class provide by
