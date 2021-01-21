@@ -254,11 +254,15 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 You can also step by step run Jupyter Notebooks in /notebooks dir.
 -->
 1 This repository use edited es-pandas interface (support vector serlized) to have a simple manipulate on elasticsearch by pandas.
+<br />
 2 try_sbert_neg_sampler.py sample hard negative samples drived from class provide by
 https://guzpenha.github.io/transformer_rankers/
 can also use elastic search to generate hard samples , relate functions have defined in valid_cross_encoder_on_bi_encoder.py
+<br />
 3 Before training your dataset on cross_encoder, should take a look at the semantic similarity between different questions.
 Combine some samples with similar semantic may give help.
+<br />
+4 Add some toolkit to Sbert to support multi-class-evaluation (as dictionary)
  <!-- CONTRIBUTING -->
 ## Contributing
 <!--
