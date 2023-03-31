@@ -74,7 +74,7 @@ Douban Movie Short Comments Dataset Sentiment Analysis By Sentiment Weighted Wor
   </p>
 </p>
 
-
+[中文介绍](README.md)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
